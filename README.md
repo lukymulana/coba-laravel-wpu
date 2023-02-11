@@ -62,3 +62,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## My Note
+
+Installasion Laravel
+https://laravel.com/docs/8.x#getting-started-on-windows
+
+installasion valet for windows and follow configuration (using nginx service)
+https://packagist.org/packages/cretueusebiu/valet-windows
+-	valet park : setup directory all folder apps
+-	valet start : to start valet service
+-	valet stop : to stop valet service
